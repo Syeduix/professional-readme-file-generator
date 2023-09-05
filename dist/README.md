@@ -1,31 +1,31 @@
-# ami
+# README Generator
 
 ## Title
-ami
+README Generator
 
 ## Sections entitled
-clear
+test
 
 ## Description
-git status
+test
 
 ## Table of Contents
-clear
+test
 
 ## Installation
-1
+test
 
 ## Usage
-1
+test
 
 ## License
-MIT
+
 
 ## Contribution
-1
+test
 
 ## Tests
-1
+test
 
 ## Questions
-1
+test
